@@ -1,0 +1,10 @@
+.heading{
+    font-size: 25px;
+    width:100%;
+}
+body{
+    background-size:cover;
+}
+canvas{
+    margin-top: 150px;
+}
