@@ -1,7 +1,7 @@
 var song="";
 
 function preload(){
-    song=loadSound("Beethoven.mp3");
+    song=loadSound("BEETHOVEN.mp3");
 }
 function setup(){
     canvas=createCanvas(400, 400);
@@ -13,5 +13,5 @@ function draw(){
     image(video, 0, 0, 400, 400);
 }
 function Start_Music(){
-    song.play()
+    song.play();
 }
